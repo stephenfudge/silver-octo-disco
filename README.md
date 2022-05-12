@@ -31,7 +31,7 @@ To use the website, you can click on any of the three links across the top and i
 Screeshot is below is what was provided to me so that I could create the website.
 
     ```md
-    ![alt text](assets/images/01-html-css-git-homework-demo.png)
+    ![alt text](assets/images/module01-challenge-screenshot.png)
     ```
 
 ## Credits
