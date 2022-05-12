@@ -17,6 +17,9 @@ Added comments to both the HTML and CSS files so that it's easier to see what pa
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
+Go to https://stephenfudge.github.io/silver-octo-disco and the page should load and function properly. 
+
+Alternatively, if you wish to download the files then you shoud do the following:
 Download the index.html file as well as the assets folder and the project should work and function properly. 
 
 ## Usage
@@ -27,12 +30,10 @@ To use the website, you can click on any of the three links across the top and i
 
 Screeshot is below is what was provided to me so that I could create the website.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/01-html-css-git-homework-demo.png)
     ```
 
 ## Credits
 
-I used w3schools.com to assist with the CSS for the links inside the header to put them in a line
+I used w3schools.com to assist with the CSS for the links inside the header to put them in a line and also for how to apply padding on images.
