@@ -30,10 +30,10 @@ To use the website, you can click on any of the three links across the top and i
 
 Screeshot is below is what was provided to me so that I could create the website.
 
-    ```md
+    
     ![alt text](assets/images/module01-challenge-screenshot.png)
-    ```
-
+    
+![alt text](assets/images/module01-challenge-screenshot.png)
 ## Credits
 
 I used w3schools.com to assist with the CSS for the links inside the header to put them in a line and also for how to apply padding on images.
